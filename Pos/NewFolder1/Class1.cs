@@ -7,5 +7,7 @@ namespace Pos.NewFolder1
 {
     public class Class1
     {
+        public string Address { get; set; }
+
     }
 }
