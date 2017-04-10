@@ -11,5 +11,8 @@ namespace Pos.NewFolder1
         public string Name { get; set; }
         public string Mobile { get; set; }
         public string AD { get; set; }
+        public string Address { get; set; }
+
+
     }
 }
